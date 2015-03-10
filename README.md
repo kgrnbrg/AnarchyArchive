@@ -1,7 +1,7 @@
 # AnarchyArchive
 Built for Storage Wars and Data Dumps with Kat Sullivan (@katsully)
 Top Google Trends search --> 
-# of posts on trend on Bing --> 
+number of posts on trend on Bing --> 
 Download image --> 
 Glitch image based off # of posts ---> 
 Gifs the image --> 
